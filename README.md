@@ -1,6 +1,8 @@
-<div align="center"><b>MERN Shop</b></div>
+<div align="center"><b style="
+    font-size: 1.8rem;
+">MERN Shop</b></div>
 
-> eCommerce platform built with the MERN stack & Redux.
+eCommerce platform built with the MERN stack & Redux.
 
 ![screenshot](https://i.imgur.com/hpZbYVS.png)
 
